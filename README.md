@@ -12,7 +12,7 @@ Fork Deploy is highly recommended
 ## شكـرا لكـم 
 
 
-this userbot is import of catuserbot and translate to arabic
+this userbot is import of catuserbot and translate to arabic 
 
 https://t.me/catuserbot_support
 https://t.me/jmthon
